@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 794262310
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2e08ea982e58eef5b37b2d9bca8b1dd9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c31af75079f831b04b55fc6ad0a01bd2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Course Library/Models/Mat_B_2.fbx
+- Assets/_Course Library/Models/Table_Side_Modern_B.fbx
+- Assets/_Course Library/Models/Hat_Cap.fbx
+- Assets/_Course Library/Models/Remote.fbx
+- Assets/_Course Library/Models/Mat_A_2.fbx
+- Assets/_Course Library/Models/Lamp_Floor_2.fbx
+- Assets/_Course Library/Models/Mirror_B_1.fbx
+- Assets/_Course Library/Models/Plant_Snake.fbx
+- Assets/_Course Library/Models/Speaker_Modern.fbx
+- Assets/_Course Library/Models/Fan_A_1.fbx
+- Assets/_Course Library/Models/Hat_Straw.fbx
+- Assets/_Course Library/Models/Rug_A_1.fbx
+- Assets/_Course Library/Models/Table_Coffee_Modern.fbx
+Dependencies:
+- D:/Unity/Create-with-VR_2020LTS/VR Room - Evan/OVRAssetBundles/OVRMasterBundle/asset_png0
+- D:/Unity/Create-with-VR_2020LTS/VR Room - Evan/OVRAssetBundles/OVRMasterBundle/asset_shader0

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3722533286
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 36604355782c6af1c8204bc44a3f1294
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: feaa08ab20190d02d4751c45ba900362
+HashAppended: 0
+ClassTypes:
+- Class: 84
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Course Library/Textures/Mirror_Texture_Brown.renderTexture
+Dependencies: []

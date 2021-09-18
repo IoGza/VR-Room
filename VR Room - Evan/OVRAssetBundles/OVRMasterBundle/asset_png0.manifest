@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 4040986271
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7062b94997f895034e849722ea134bd5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Course Library/Classroom/Materials/textures/MuroFrontalYTrasero.png
+- Assets/_Course Library/Classroom/Materials/textures/MuroLaterales.png
+- Assets/_Course Library/Classroom/Materials/textures/EscritorioProf.png
+- Assets/_Course Library/Classroom/Materials/textures/TECHO.png
+- Assets/_Course Library/Classroom/Materials/textures/LockerYLamparaMT.png
+- Assets/_Course Library/Classroom/Materials/textures/Libreros.png
+- Assets/_Course Library/Classroom/Materials/textures/PISO.png
+- Assets/_Course Library/Classroom/Materials/textures/MurosVentanaPuerta.png
+- Assets/_Course Library/Classroom/Materials/textures/Pizarrones.png
+- Assets/_Course Library/Classroom/Materials/textures/Libros_y_Lapiz.png
+- Assets/_Course Library/Classroom/Materials/textures/SillaMesaUV.png
+- Assets/_Course Library/Classroom/Materials/textures/RAEC_Props.png
+- Assets/_Course Library/Textures/InteriorColourSwatch.png
+- Assets/_Course Library/Textures/WoodFloor_Texture.png
+- Assets/_Course Library/Classroom/Materials/textures/Tarima.png
+Dependencies: []

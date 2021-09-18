@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 853452415
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: da62583f355782bffddfc08d7eb8cd04
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 68c985bf88fecc38b460cdb825182138
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Packages/com.unity.render-pipelines.universal/Shaders/Autodesk Interactive/Autodesk
+  Interactive.shadergraph
+Dependencies:
+- D:/Unity/Create-with-VR_2020LTS/VR Room - Evan/OVRAssetBundles/OVRMasterBundle/asset_shader0

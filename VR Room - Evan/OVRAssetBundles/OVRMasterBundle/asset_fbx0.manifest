@@ -1,0 +1,71 @@
+ManifestFileVersion: 0
+CRC: 238973397
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 838537e4a9152c8ae008c403395457ad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c31af75079f831b04b55fc6ad0a01bd2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Course Library/Models/VR_Hand_Yellow.FBX
+- Assets/_Course Library/Models/Fireplace_Traditional_Log1.FBX
+- Assets/_Course Library/Models/Object_Book_C_2.fbx
+- Assets/_Course Library/Models/Backgrounds/SkyscrapersPlane.fbx
+- Assets/_Course Library/Models/RoomModern_Models/Room_Modern_All.FBX
+- Assets/_Course Library/Models/Fireplace_Traditional_Log5.FBX
+- Assets/_Course Library/Models/Fireplace_Traditional_Log2.FBX
+- Assets/_Course Library/Models/Art_Painting_2.fbx
+- Assets/_Course Library/Models/Sports_TennisRacket.fbx
+- Assets/_Course Library/Models/Shelving_Traditional.fbx
+- Assets/_Course Library/Models/Container_Bottle_B.fbx
+- Assets/_Course Library/Models/Object_Book_B_3.fbx
+- Assets/_Course Library/Models/Object_Book_B_4.fbx
+- Assets/_Course Library/Models/Couch_Modern.fbx
+- Assets/_Course Library/Models/Object_Notebook_C.fbx
+- Assets/_Course Library/Models/Object_Book_C_3.fbx
+- Assets/_Course Library/Models/Lamp_Floor_1.fbx
+- Assets/_Course Library/Models/Object_Clock_Analog_B.fbx
+- Assets/_Course Library/Models/Launcher_Stapler.fbx
+- Assets/_Course Library/Models/Table_Dining_Modern.fbx
+- Assets/_Course Library/Models/VR_Reticle_1_A.fbx
+- Assets/_Course Library/Models/TV_FlatWallMounted 1.fbx
+- Assets/_Course Library/Models/Drawers_Modern.fbx
+- Assets/_Course Library/Models/Lamp_Table1_B.fbx
+- Assets/_Course Library/Models/Fireplace_Traditional.fbx
+- Assets/_Course Library/Classroom/JapaneseClassroom.fbx
+- Assets/_Course Library/Models/Chair_Modern.fbx
+- Assets/_Course Library/Models/Plant_Pot_Round.fbx
+- Assets/_Course Library/Models/Fireplace_Traditional_Log3.FBX
+- Assets/_Course Library/Models/Chest_Modern_B.fbx
+- Assets/_Course Library/Models/Fireplace_Traditional_Log4.FBX
+- Assets/_Course Library/Models/Object_Notebook_A.fbx
+- Assets/_Course Library/Models/Ball_Tennis.fbx
+- Assets/_Course Library/Models/Object_Book_C_1.fbx
+- Assets/_Course Library/Models/Object_Book_A_2.fbx
+- Assets/_Course Library/Models/Shelving_Modern_B.fbx
+- Assets/_Course Library/Models/Clock_Digital.FBX
+- Assets/_Course Library/Models/Hook_A_1.fbx
+Dependencies:
+- D:/Unity/Create-with-VR_2020LTS/VR Room - Evan/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- D:/Unity/Create-with-VR_2020LTS/VR Room - Evan/OVRAssetBundles/OVRMasterBundle/asset_png0
+- D:/Unity/Create-with-VR_2020LTS/VR Room - Evan/OVRAssetBundles/OVRMasterBundle/asset_shader0

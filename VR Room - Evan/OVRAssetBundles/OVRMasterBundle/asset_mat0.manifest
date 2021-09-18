@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1536724362
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 75eb3d4f596f90fe2c96702a7195abca
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5651999fa58938ac55fc849c3d2539bc
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Challenges/01_Architecture/Materials/Walls.mat
+- Assets/Challenges/01_Architecture/Materials/Mountains.mat
+- Assets/Challenges/01_Architecture/Materials/ClipBoard1.mat
+- Assets/Challenges/01_Architecture/Materials/Tree_Leaves.mat
+- Assets/Challenges/01_Architecture/Materials/Grass.mat
+- Assets/Challenges/01_Architecture/Materials/Tree_Trunk.mat
+- Assets/Challenges/01_Architecture/Materials/Table.mat
+- Assets/Challenges/01_Architecture/Materials/ClipBoardBack.mat
+- Assets/Challenges/01_Architecture/Materials/Carpet.mat
+- Assets/_Course Library/Materials/Solid Colors/GreyDark.mat
+- Assets/Challenges/01_Architecture/Materials/Glass.mat
+- Assets/Challenges/01_Architecture/Materials/MeasuringStick.mat
+- Assets/Challenges/01_Architecture/Materials/Cement.mat
+- Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat
+- Assets/Challenges/01_Architecture/Materials/Wood.mat
+Dependencies:
+- D:/Unity/Create-with-VR_2020LTS/VR Room - Evan/OVRAssetBundles/OVRMasterBundle/asset_shader0

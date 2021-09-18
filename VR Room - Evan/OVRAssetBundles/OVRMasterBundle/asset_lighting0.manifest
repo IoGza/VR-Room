@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1003269821
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 557ccbc3f51949507414ccd0f265d009
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bb1c98fd3fd2df8fe937870a85fedf92
+HashAppended: 0
+ClassTypes:
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/VR/Prefabs/New Lighting Settings.lighting
+Dependencies: []

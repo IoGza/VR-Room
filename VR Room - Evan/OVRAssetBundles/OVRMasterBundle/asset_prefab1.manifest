@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 4238853976
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e6bdc316b22ea8d673d495532ee41517
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c98a3088680f588f113931c364e80a22
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e2f4617667341945b5a7756e14b62d0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a7f251fe27271a5419bb3a1e74c89e4d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Course Library/_Prefabs/Objects/Sports/Tennis_Racket_Blue.prefab
+- Assets/_Course Library/_Prefabs/Televisions/TV_FlatWallMounted.prefab
+- Assets/_Course Library/_Prefabs/Objects/Electronics/Clock_Digital.prefab
+- Assets/_Course Library/_Prefabs/Objects/Electronics/Clock_Analog_Red.prefab
+- Assets/_Course Library/_Prefabs/Objects/Books/Book_C_Yellow.prefab
+- Assets/_Course Library/_Prefabs/Rugs/Mat_Rect_Black.prefab
+- Assets/_Course Library/_Prefabs/Lighting/CeilingFan.prefab
+- Assets/_Course Library/_Prefabs/Plants/Plant_B.prefab
+- Assets/_Course Library/_Prefabs/VR/Hands/VR_Hand_Yellow_Right.prefab
+- Assets/_Course Library/_Prefabs/Storage/Drawers_Modern_Light.prefab
+- Assets/_Course Library/_Prefabs/Rugs/Rug_Rect_Gray.prefab
+- Assets/_Course Library/_Prefabs/Lighting/Lamp_Table_Blue.prefab
+- Assets/_Course Library/_Prefabs/VR/Hands/VR_Hand_Yellow_Left.prefab
+- Assets/_Course Library/_Prefabs/Objects/Notebooks/Notebook_Brown.prefab
+- Assets/_Course Library/_Prefabs/Tables/Table_Dining_Modern_Light.prefab
+- Assets/_Course Library/_Prefabs/Lighting/Lamp_Floor_Double.prefab
+- Assets/_Course Library/_Prefabs/Objects/Books/Book_C_Gray.prefab
+- Assets/_Course Library/_Prefabs/Tables/Table_Side_Modern_Brown.prefab
+Dependencies:
+- D:/Unity/Create-with-VR_2020LTS/VR Room - Evan/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- D:/Unity/Create-with-VR_2020LTS/VR Room - Evan/OVRAssetBundles/OVRMasterBundle/asset_fbx1
+- D:/Unity/Create-with-VR_2020LTS/VR Room - Evan/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- D:/Unity/Create-with-VR_2020LTS/VR Room - Evan/OVRAssetBundles/OVRMasterBundle/asset_prefab0
